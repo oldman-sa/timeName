@@ -13,7 +13,7 @@
 ```
 apt uptade && apt upgrade
 ```
-3. Клонируйте репозиторий:
+2. Клонируйте репозиторий:
 
 ```
 git clone https://github.com/oldman-sa/timeName.git
