@@ -8,23 +8,29 @@
 
 ## Установка
 
-1. Клонируйте репозиторий:
+1. Обновление всего:
+  
+```
+apt uptade && apt upgrade
+```
+3. Клонируйте репозиторий:
 
 ```
 git clone https://github.com/oldman-sa/timeName.git
 ```
-2. Откройте папку со скриптом:
+3. Откройте папку со скриптом:
 
 ```
 cd timeName
 ```
-3. Устанавливаем важные библиотеки:
+4. Устанавливаем важные библиотеки:
 
 ```
+sudo apt install python3
 pip install -r requirements.txt
 ```
 ## Запуск скрипта
 
 ```
-python name.py
+python3 name.py
 ```
