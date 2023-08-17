@@ -4,7 +4,7 @@
 
 ## Наглядный пример
 
-![Описание изображения](https://github.com/oldman-sa/timeName/example.jpeg)
+![Описание изображения](https://github.com/oldman-sa/timeName/blob/main/example.jpeg)
 
 ## Установка
 
