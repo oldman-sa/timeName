@@ -11,7 +11,7 @@
 1. Клонируйте репозиторий:
 
 ```
-git clone https://github.com/oldman-ios/timeName.git
+git clone https://github.com/oldman-sa/timeName.git
 ```
 2. Откройте папку со скриптом:
 
