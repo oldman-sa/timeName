@@ -1,2 +1,2 @@
-pip install pyrogram
-pip install asyncio
+pyrogram
+asyncio
