@@ -26,8 +26,8 @@ cd timeName
 4. Устанавливаем важные библиотеки:
 
 ```
-sudo apt install python3
-pip install -r requirements.txt
+sudo apt install python@3.11
+python3 -m pip install -r requirements.txt
 ```
 ## Запуск скрипта
 
